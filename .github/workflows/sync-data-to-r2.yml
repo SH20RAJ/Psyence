@@ -3,7 +3,7 @@ name: Deploy to Cloudflare R2
 on:
   push:
     branches:
-      - main   # run workflow on pushes to main branch
+      - main
 
 jobs:
   deploy:
@@ -13,16 +13,16 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
+      - name: Setup Node.js (20.x)
         uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 20
 
       - name: Install dependencies
-        run: npm ci
+        run: npm install   # use install, not ci (since lockfile is out of sync)
 
       - name: Build project
-        run: npm run build
+        run: npm run build && npm run export
 
       - name: Install AWS CLI
         run: |
@@ -34,7 +34,9 @@ jobs:
           AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
           AWS_DEFAULT_REGION: auto
+          R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
         run: |
           aws s3 sync ./out s3://$R2_BUCKET_NAME \
             --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
             --delete
+          echo "Deployment to Cloudflare R2 completed."
