@@ -1,0 +1,33 @@
+name: Sync Data to R2
+
+on:
+  push:
+    branches: [main]
+    paths: ['data/**']
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup rclone
+        run: |
+          curl https://rclone.org/install.sh | sudo bash
+          
+      - name: Configure rclone for R2
+        run: |
+          mkdir -p ~/.config/rclone
+          cat << EOF > ~/.config/rclone/rclone.conf
+          [r2]
+          type = s3
+          provider = Cloudflare
+          access_key_id = ${{ secrets.CLOUDFLARE_R2_ACCESS_KEY }}
+          secret_access_key = ${{ secrets.CLOUDFLARE_R2_SECRET_KEY }}
+          endpoint = https://${{ secrets.CLOUDFLARE_ACCOUNT_ID }}.r2.cloudflarestorage.com
+          EOF
+          
+      - name: Sync data to R2
+        run: |
+          rclone sync data/ r2:${{ secrets.R2_BUCKET }}/data/ --progress
