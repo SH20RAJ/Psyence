@@ -1,42 +1,40 @@
-name: Sync Data to R2
+name: Deploy to Cloudflare R2
 
 on:
   push:
-    paths:
-      - "data/**"   # Runs only when files in data folder change
-  workflow_dispatch:
-    inputs:
-      folder:
-        description: "Folder to sync"
-        required: true
-        default: "data/"
+    branches:
+      - main   # run workflow on pushes to main branch
 
 jobs:
-  sync:
+  deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Install rclone
-        run: curl https://rclone.org/install.sh | sudo bash
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
 
-      - name: Configure rclone
-        run: |
-          mkdir -p ~/.config/rclone
-          cat <<EOF > ~/.config/rclone/rclone.conf
-          [r2]
-          type = s3
-          provider = Cloudflare
-          access_key_id = ${{ secrets.R2_ACCESS_KEY_ID }}
-          secret_access_key = ${{ secrets.R2_SECRET_ACCESS_KEY }}
-          endpoint = https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com
-          EOF
+      - name: Install dependencies
+        run: npm ci
 
-      - name: Sync to Cloudflare R2
+      - name: Build project
+        run: npm run build
+
+      - name: Install AWS CLI
         run: |
-          rclone sync \
-            "${{ github.event.inputs.folder || 'data/' }}" \
-            r2:psyence \
-            --progress
+          sudo apt-get update
+          sudo apt-get install -y awscli
+
+      - name: Upload to Cloudflare R2
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
+        run: |
+          aws s3 sync ./out s3://$R2_BUCKET_NAME \
+            --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+            --delete
