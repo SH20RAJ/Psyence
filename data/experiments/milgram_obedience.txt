@@ -1,0 +1,37 @@
+# Milgram Obedience Experiment
+
+## Definition
+A series of social psychology experiments conducted by Stanley Milgram in the 1960s measuring willingness to obey authority figures even when conflicting with personal conscience.
+
+## Key Concepts
+- Obedience to authority vs. moral conscience
+- Gradual escalation and commitment consistency
+- Diffusion of responsibility to authority figures
+- Situational factors overriding personal values
+- Agentic state vs. autonomous state
+
+## Examples
+- 65% of participants delivered maximum 450-volt shock
+- Participants showed extreme stress but continued obeying
+- Proximity to victim reduced obedience rates
+- Authority figure presence increased compliance
+- Ordinary people capable of harmful acts under authority
+
+## Applications
+- Understanding genocide and atrocities
+- Military training and command structures
+- Workplace compliance and whistleblowing
+- Educational authority and student behavior
+- Ethical leadership and moral courage
+
+## Related Theories / Biases
+- Authority bias and deference to experts
+- Fundamental attribution error (situation vs. character)
+- Cognitive dissonance and rationalization
+- Social proof and conformity pressures
+
+## References
+- Stanley Milgram's "Obedience to Authority" (1974)
+- Original Yale University experiments (1961-1962)
+- Cross-cultural replications and variations
+- Ethical debates in psychology research

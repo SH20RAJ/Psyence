@@ -1,0 +1,36 @@
+# Clinical Psychology
+
+## Definition
+The branch of psychology focused on diagnosing and treating mental, emotional, and behavioral disorders through assessment, therapy, and intervention.
+
+## Key Concepts
+- Psychological assessment and diagnosis
+- Evidence-based therapeutic interventions
+- Mental health disorders and their classification
+- Therapeutic relationship and alliance
+- Treatment planning and outcome measurement
+
+## Examples
+- Cognitive Behavioral Therapy for depression
+- Exposure therapy for phobias
+- Family therapy for relationship issues
+- Psychological testing for ADHD diagnosis
+
+## Applications
+- Mental health treatment and counseling
+- Crisis intervention and suicide prevention
+- Rehabilitation psychology
+- Health psychology and medical settings
+- Forensic psychology and legal contexts
+
+## Related Theories / Biases
+- Confirmation bias in diagnosis
+- Availability heuristic in symptom assessment
+- Anchoring on initial impressions
+- Attribution errors in understanding behavior
+
+## References
+- Aaron Beck's cognitive therapy model
+- Carl Rogers' person-centered therapy
+- Marsha Linehan's Dialectical Behavior Therapy
+- DSM-5 diagnostic criteria and classification

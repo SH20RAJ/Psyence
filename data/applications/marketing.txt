@@ -1,0 +1,37 @@
+# Marketing Psychology
+
+## Definition
+The application of psychological principles to understand consumer behavior, decision-making processes, and persuasion techniques in marketing and advertising.
+
+## Key Concepts
+- Consumer decision-making heuristics and biases
+- Emotional vs. rational purchasing motivations
+- Social proof and influence principles
+- Brand psychology and identity formation
+- Neuromarketing and subconscious responses
+
+## Examples
+- Scarcity tactics creating urgency ("Limited time offer")
+- Social proof through customer testimonials and reviews
+- Anchoring with "Was $100, Now $50" pricing
+- Loss aversion in "Don't miss out" messaging
+- Color psychology in brand design and packaging
+
+## Applications
+- Advertising copy and creative development
+- Pricing strategies and promotional tactics
+- Customer experience design and journey mapping
+- Brand positioning and messaging strategies
+- Digital marketing and conversion optimization
+
+## Related Theories / Biases
+- Availability heuristic (memorable ads more effective)
+- Confirmation bias (seeking brand-confirming information)
+- Framing effect (positive vs. negative messaging)
+- Reciprocity principle (free samples, trials)
+
+## References
+- Robert Cialdini's "Influence" principles
+- Daniel Kahneman's behavioral economics research
+- "Predictably Irrational" by Dan Ariely
+- Consumer psychology and marketing research journals

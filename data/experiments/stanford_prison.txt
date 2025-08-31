@@ -1,0 +1,36 @@
+# Stanford Prison Experiment
+
+## Definition
+A controversial 1971 psychological study conducted by Philip Zimbardo examining the psychological effects of perceived power and authority in a simulated prison environment.
+
+## Key Concepts
+- Situational vs. dispositional factors in behavior
+- Role conformity and social expectations
+- Power dynamics and authority structures
+- Deindividuation and loss of personal identity
+- Ethical considerations in psychological research
+
+## Examples
+- Guards becoming increasingly authoritarian and abusive
+- Prisoners showing signs of depression and learned helplessness
+- Participants fully adopting their assigned roles
+- Experiment terminated early due to ethical concerns
+
+## Applications
+- Understanding institutional behavior and reform
+- Military and correctional training programs
+- Organizational hierarchy and power dynamics
+- Ethics in psychological research methodology
+- Social psychology of authority and obedience
+
+## Related Theories / Biases
+- Fundamental attribution error (situation vs. personality)
+- Conformity and social pressure effects
+- Authority bias and obedience to power
+- In-group favoritism and out-group derogation
+
+## References
+- Philip Zimbardo's original 1971 study
+- "The Lucifer Effect" by Philip Zimbardo
+- Ethical critiques and methodological concerns
+- Replication attempts and alternative interpretations

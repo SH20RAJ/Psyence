@@ -1,0 +1,33 @@
+# Cognitive Psychology
+
+## Definition
+The scientific study of mental processes including attention, language use, memory, perception, problem solving, creativity, and reasoning.
+
+## Key Concepts
+- Information processing model of the mind
+- Working memory and long-term memory systems
+- Attention and selective processing
+- Schema theory and mental representations
+- Metacognition (thinking about thinking)
+
+## Examples
+- How we remember phone numbers using chunking
+- Why we can focus on one conversation in a noisy room (cocktail party effect)
+- How mental shortcuts help us make quick decisions
+
+## Applications
+- Educational psychology and learning strategies
+- User interface design and human-computer interaction
+- Cognitive behavioral therapy techniques
+- Memory improvement and study methods
+
+## Related Theories / Biases
+- Confirmation bias and selective attention
+- Availability heuristic in memory retrieval
+- Anchoring bias in decision making
+- Framing effects on perception
+
+## References
+- Ulric Neisser's "Cognitive Psychology" (1967)
+- Alan Baddeley's working memory model
+- Daniel Kahneman's dual-process theory

@@ -1,0 +1,35 @@
+# Confirmation Bias
+
+## Definition
+The tendency to search for, interpret, favor, and recall information that confirms or supports one's pre-existing beliefs or values.
+
+## Key Concepts
+- Selective exposure to confirming information
+- Biased interpretation of ambiguous evidence
+- Selective recall of supporting memories
+- Resistance to disconfirming evidence
+
+## Examples
+- Reading only news sources that align with political views
+- Interpreting sports referee calls as biased against your team
+- Seeking medical second opinions until finding desired diagnosis
+- Social media echo chambers reinforcing existing beliefs
+
+## Applications
+- Scientific research methodology and peer review
+- Investment decision-making and analysis
+- Medical diagnosis and treatment decisions
+- Political campaigning and voter behavior
+- Team decision-making and groupthink prevention
+
+## Related Theories / Biases
+- Anchoring bias (confirming initial impressions)
+- Availability heuristic (accessible confirming examples)
+- Motivated reasoning and wishful thinking
+- Cognitive dissonance and belief preservation
+
+## References
+- Peter Wason's 2-4-6 task experiments
+- Leon Festinger's cognitive dissonance theory
+- Raymond Nickerson's comprehensive review
+- "The Righteous Mind" by Jonathan Haidt

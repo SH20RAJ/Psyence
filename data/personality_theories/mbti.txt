@@ -1,0 +1,35 @@
+# Myers-Briggs Type Indicator (MBTI)
+
+## Definition
+A personality assessment based on Carl Jung's psychological types, categorizing individuals into 16 personality types using four dichotomous dimensions.
+
+## Key Concepts
+- Extraversion (E) vs. Introversion (I): energy source and focus
+- Sensing (S) vs. Intuition (N): information gathering preference
+- Thinking (T) vs. Feeling (F): decision-making approach
+- Judging (J) vs. Perceiving (P): lifestyle and structure preference
+
+## Examples
+- INTJ: strategic planners, independent, future-focused
+- ESFP: spontaneous, people-oriented, present-focused
+- ENTJ: natural leaders, goal-oriented, decisive
+- ISFJ: supportive, detail-oriented, traditional
+
+## Applications
+- Team building and communication styles
+- Career counseling and job fit
+- Leadership development programs
+- Relationship counseling and compatibility
+- Educational learning style adaptation
+
+## Related Theories / Biases
+- Confirmation bias (fitting behavior to type)
+- Barnum effect (accepting vague descriptions)
+- Fundamental attribution error (type vs. situation)
+- Self-fulfilling prophecy effects
+
+## References
+- Carl Jung's "Psychological Types" (1921)
+- Isabel Myers and Katharine Briggs development
+- MBTI Manual and research studies
+- Criticisms from academic psychology research

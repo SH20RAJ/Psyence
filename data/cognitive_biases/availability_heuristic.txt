@@ -1,0 +1,34 @@
+# Availability Heuristic
+
+## Definition
+A mental shortcut that relies on immediate examples that come to mind when evaluating a specific topic, concept, method, or decision.
+
+## Key Concepts
+- Ease of recall influences probability judgments
+- Recent and vivid events seem more likely
+- Media coverage affects perceived frequency
+- Personal experience overweights statistical reality
+
+## Examples
+- Overestimating airplane crash risk after news coverage
+- Judging crime rates based on local news reports
+- Assuming divorce is common after friend's breakup
+- Fearing shark attacks more than bee stings despite statistics
+
+## Applications
+- Risk assessment and insurance decisions
+- Medical diagnosis and symptom evaluation
+- Investment choices and market predictions
+- Emergency preparedness and safety planning
+- Marketing and advertising effectiveness
+
+## Related Theories / Biases
+- Representativeness heuristic (similar mental shortcuts)
+- Recency effect (recent events more available)
+- Vividness effect (memorable events more available)
+- Base rate neglect (ignoring statistical information)
+
+## References
+- Amos Tversky and Daniel Kahneman's heuristics research
+- "Judgment Under Uncertainty" foundational paper
+- Behavioral economics and decision science literature

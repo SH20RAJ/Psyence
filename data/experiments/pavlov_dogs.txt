@@ -1,0 +1,37 @@
+# Pavlov's Classical Conditioning
+
+## Definition
+Ivan Pavlov's groundbreaking experiments with dogs that demonstrated how neutral stimuli can become conditioned to elicit automatic responses through association learning.
+
+## Key Concepts
+- Unconditioned Stimulus (UCS): food naturally causing salivation
+- Unconditioned Response (UCR): natural salivation to food
+- Conditioned Stimulus (CS): bell sound paired with food
+- Conditioned Response (CR): learned salivation to bell alone
+- Acquisition, extinction, and spontaneous recovery phases
+
+## Examples
+- Dogs salivating to bell sound after food pairing
+- Fear responses to dentist office after painful procedures
+- Emotional reactions to songs associated with memories
+- Brand preferences formed through positive associations
+- Phobias developed through traumatic experiences
+
+## Applications
+- Behavior therapy and systematic desensitization
+- Advertising and brand association strategies
+- Educational conditioning and learning environments
+- Treatment of phobias and anxiety disorders
+- Understanding addiction and craving triggers
+
+## Related Theories / Biases
+- Availability heuristic (memorable associations)
+- Confirmation bias (seeking confirming associations)
+- Anchoring bias (first associations strongest)
+- Emotional conditioning and implicit learning
+
+## References
+- Ivan Pavlov's "Conditioned Reflexes" (1927)
+- John B. Watson's behaviorism applications
+- Modern learning theory and neuroscience research
+- Clinical applications in behavior therapy

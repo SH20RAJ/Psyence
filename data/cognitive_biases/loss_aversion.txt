@@ -1,0 +1,36 @@
+# Loss Aversion
+
+## Definition
+The tendency for people to prefer avoiding losses over acquiring equivalent gains; losses are psychologically twice as powerful as gains.
+
+## Key Concepts
+- Losses loom larger than equivalent gains
+- Reference point dependency in value perception
+- Endowment effect and ownership bias
+- Status quo bias and change resistance
+- Risk-seeking behavior in loss domain
+
+## Examples
+- Keeping losing stocks while selling winning ones
+- Refusing to sell house below purchase price
+- Staying in unsatisfying job to avoid "losing" current benefits
+- Preferring "no surcharge" over "cash discount" framing
+
+## Applications
+- Investment and financial decision-making
+- Product pricing and promotional strategies
+- Change management in organizations
+- Insurance and risk management decisions
+- Negotiation tactics and contract design
+
+## Related Theories / Biases
+- Framing effect (gains vs. losses presentation)
+- Endowment effect (overvaluing owned items)
+- Status quo bias (preferring current state)
+- Sunk cost fallacy (throwing good money after bad)
+
+## References
+- Kahneman and Tversky's prospect theory
+- "Thinking, Fast and Slow" by Daniel Kahneman
+- Behavioral economics and decision science research
+- Richard Thaler's endowment effect studies

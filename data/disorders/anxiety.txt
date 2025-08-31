@@ -1,0 +1,37 @@
+# Anxiety Disorders
+
+## Definition
+A group of mental health conditions characterized by excessive fear, worry, and related behavioral disturbances that significantly impair daily functioning.
+
+## Key Concepts
+- Generalized Anxiety Disorder (persistent, excessive worry)
+- Panic Disorder (recurrent panic attacks)
+- Social Anxiety Disorder (fear of social situations)
+- Specific Phobias (irrational fears of specific objects/situations)
+- Fight-flight-freeze response system dysfunction
+
+## Examples
+- Avoiding social gatherings due to fear of judgment
+- Physical symptoms: rapid heartbeat, sweating, trembling
+- Catastrophic thinking and worst-case scenario focus
+- Avoidance behaviors that reinforce anxiety
+- Sleep disturbances and concentration difficulties
+
+## Applications
+- Cognitive Behavioral Therapy (CBT) interventions
+- Exposure therapy and systematic desensitization
+- Mindfulness and relaxation techniques
+- Medication management (SSRIs, benzodiazepines)
+- Lifestyle modifications and stress management
+
+## Related Theories / Biases
+- Catastrophic thinking and probability overestimation
+- Confirmation bias toward threat-related information
+- Availability heuristic for negative outcomes
+- Safety behaviors maintaining anxiety cycles
+
+## References
+- DSM-5 diagnostic criteria and classification
+- Aaron Beck's cognitive model of anxiety
+- David Clark's cognitive model of panic
+- Acceptance and Commitment Therapy approaches

@@ -1,0 +1,37 @@
+# Educational Psychology
+
+## Definition
+The study of how people learn and the most effective teaching methods, focusing on cognitive processes, motivation, and individual differences in educational settings.
+
+## Key Concepts
+- Learning theories (behaviorist, cognitive, constructivist)
+- Motivation and engagement in learning
+- Individual differences and learning styles
+- Assessment and feedback effectiveness
+- Classroom management and social dynamics
+
+## Examples
+- Spaced repetition improving long-term retention
+- Growth mindset increasing student resilience
+- Collaborative learning enhancing understanding
+- Formative feedback guiding student progress
+- Scaffolding supporting skill development
+
+## Applications
+- Curriculum design and instructional methods
+- Student assessment and evaluation strategies
+- Special education and learning disabilities support
+- Teacher training and professional development
+- Educational technology and digital learning
+
+## Related Theories / Biases
+- Confirmation bias in student expectations
+- Availability heuristic in teaching examples
+- Anchoring bias in grading and assessment
+- Self-fulfilling prophecy in student performance
+
+## References
+- Jean Piaget's cognitive development theory
+- Lev Vygotsky's zone of proximal development
+- Albert Bandura's social learning theory
+- Carol Dweck's growth mindset research

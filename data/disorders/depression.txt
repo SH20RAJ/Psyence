@@ -1,0 +1,37 @@
+# Depression
+
+## Definition
+A mood disorder characterized by persistent feelings of sadness, hopelessness, and loss of interest in activities, significantly impairing daily functioning and quality of life.
+
+## Key Concepts
+- Major Depressive Disorder (clinical depression)
+- Persistent Depressive Disorder (dysthymia)
+- Cognitive triad: negative thoughts about self, world, future
+- Neurochemical imbalances (serotonin, dopamine, norepinephrine)
+- Behavioral activation and activity scheduling
+
+## Examples
+- Loss of interest in previously enjoyed activities
+- Persistent sad mood and feelings of emptiness
+- Sleep disturbances (insomnia or hypersomnia)
+- Fatigue and decreased energy levels
+- Difficulty concentrating and making decisions
+
+## Applications
+- Cognitive Behavioral Therapy (CBT) for depression
+- Interpersonal Therapy (IPT) approaches
+- Antidepressant medication management
+- Behavioral activation and pleasant activity scheduling
+- Mindfulness-based interventions
+
+## Related Theories / Biases
+- Negative cognitive biases and distorted thinking
+- Rumination and repetitive negative thinking
+- Learned helplessness and attribution styles
+- Confirmation bias toward negative information
+
+## References
+- Aaron Beck's cognitive theory of depression
+- Martin Seligman's learned helplessness model
+- DSM-5 diagnostic criteria and specifiers
+- "Feeling Good" by David Burns (CBT techniques)

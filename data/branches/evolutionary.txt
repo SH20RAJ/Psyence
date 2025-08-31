@@ -1,0 +1,36 @@
+# Evolutionary Psychology
+
+## Definition
+The study of psychological traits and behaviors as adaptations that evolved to solve recurrent problems in human ancestral environments.
+
+## Key Concepts
+- Adaptive functions of psychological mechanisms
+- Environment of Evolutionary Adaptedness (EEA)
+- Sexual selection and mate choice
+- Parental investment theory
+- Cognitive modules and domain-specific adaptations
+
+## Examples
+- Fear of snakes and spiders (ancient threats)
+- Preference for symmetrical faces (health indicators)
+- Jealousy as mate-guarding behavior
+- Altruism toward relatives (kin selection)
+
+## Applications
+- Understanding modern relationship dynamics
+- Consumer behavior and marketing psychology
+- Workplace hierarchy and leadership
+- Risk assessment and decision making
+- Social cooperation and conflict resolution
+
+## Related Theories / Biases
+- Loss aversion and risk perception
+- In-group favoritism and out-group bias
+- Status quo bias and change resistance
+- Availability heuristic for threat assessment
+
+## References
+- David Buss's evolutionary psychology textbook
+- Robert Trivers' parental investment theory
+- Steven Pinker's "How the Mind Works"
+- Leda Cosmides and John Tooby's research

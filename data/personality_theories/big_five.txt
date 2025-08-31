@@ -1,0 +1,37 @@
+# Big Five Personality Model
+
+## Definition
+A widely accepted framework that describes personality through five broad dimensions: Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism (OCEAN).
+
+## Key Concepts
+- Openness to Experience (creativity, curiosity, imagination)
+- Conscientiousness (organization, discipline, goal-directed behavior)
+- Extraversion (sociability, assertiveness, positive emotions)
+- Agreeableness (cooperation, trust, empathy)
+- Neuroticism (emotional instability, anxiety, negative emotions)
+
+## Examples
+- High openness: enjoys art, tries new foods, philosophical discussions
+- High conscientiousness: meets deadlines, organized workspace, plans ahead
+- High extraversion: enjoys parties, speaks up in meetings, energetic
+- High agreeableness: helps others, avoids conflict, trusting
+- High neuroticism: worries frequently, mood swings, stress sensitivity
+
+## Applications
+- Employee selection and job matching
+- Team composition and dynamics
+- Personal development and coaching
+- Relationship compatibility assessment
+- Therapeutic goal setting
+
+## Related Theories / Biases
+- Fundamental attribution error (personality vs. situation)
+- Confirmation bias in personality assessment
+- Halo effect in trait judgments
+- Self-serving bias in self-ratings
+
+## References
+- Lewis Goldberg's factor analysis research
+- Costa and McCrae's NEO personality inventory
+- "Personality and Individual Differences" research
+- Cross-cultural validation studies

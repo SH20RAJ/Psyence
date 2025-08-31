@@ -1,0 +1,36 @@
+# Developmental Psychology
+
+## Definition
+The scientific study of how and why humans grow and change throughout their lifespan, from conception to death.
+
+## Key Concepts
+- Critical and sensitive periods in development
+- Nature vs. nurture interactions
+- Cognitive development stages
+- Attachment theory and bonding
+- Moral development and reasoning
+
+## Examples
+- Language acquisition in early childhood
+- Identity formation during adolescence
+- Career transitions in midlife
+- Cognitive changes in aging
+
+## Applications
+- Educational curriculum design
+- Parenting strategies and child-rearing
+- Geriatric care and aging support
+- Therapeutic interventions for children
+- Career counseling across lifespan
+
+## Related Theories / Biases
+- Confirmation bias in child observations
+- Availability heuristic in parenting decisions
+- Anchoring on early developmental milestones
+- Hindsight bias in developmental outcomes
+
+## References
+- Jean Piaget's cognitive development theory
+- Erik Erikson's psychosocial development stages
+- John Bowlby's attachment theory
+- Lev Vygotsky's zone of proximal development

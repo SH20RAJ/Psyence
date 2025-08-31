@@ -1,0 +1,36 @@
+# Behavioral Psychology
+
+## Definition
+The study of observable behaviors and the environmental factors that influence them, focusing on learning through conditioning and reinforcement.
+
+## Key Concepts
+- Classical conditioning (stimulus-response associations)
+- Operant conditioning (behavior modification through consequences)
+- Reinforcement schedules and their effects
+- Extinction and spontaneous recovery
+- Behavioral shaping and successive approximation
+
+## Examples
+- Training a dog to sit using treats (positive reinforcement)
+- Fear of dentists after painful experience (classical conditioning)
+- Slot machine addiction due to variable ratio reinforcement
+- Breaking bad habits through systematic desensitization
+
+## Applications
+- Behavior modification therapy
+- Educational reward systems
+- Animal training and pet behavior
+- Addiction treatment programs
+- Workplace performance management
+
+## Related Theories / Biases
+- Habit formation and automatic behaviors
+- Reward prediction error in learning
+- Social learning theory and modeling
+- Cognitive dissonance and behavior change
+
+## References
+- B.F. Skinner's operant conditioning research
+- Ivan Pavlov's classical conditioning experiments
+- John B. Watson's behaviorism manifesto
+- Albert Bandura's social learning theory

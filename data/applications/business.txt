@@ -1,0 +1,37 @@
+# Business Psychology
+
+## Definition
+The application of psychological principles and research to understand and improve workplace behavior, organizational effectiveness, and business outcomes.
+
+## Key Concepts
+- Industrial and Organizational (I/O) Psychology
+- Employee motivation and engagement theories
+- Leadership styles and effectiveness
+- Team dynamics and group decision-making
+- Consumer behavior and marketing psychology
+
+## Examples
+- Using behavioral economics in pricing strategies
+- Implementing feedback systems based on reinforcement theory
+- Designing workspaces to enhance creativity and collaboration
+- Applying social psychology to improve team communication
+- Using personality assessments for hiring and team formation
+
+## Applications
+- Human resources and talent management
+- Marketing and consumer research
+- Organizational development and change management
+- Leadership training and executive coaching
+- Performance management and employee engagement
+
+## Related Theories / Biases
+- Confirmation bias in hiring decisions
+- Halo effect in performance evaluations
+- Anchoring bias in salary negotiations
+- Social proof in consumer purchasing decisions
+
+## References
+- "Influence: The Psychology of Persuasion" by Robert Cialdini
+- "Drive" by Daniel Pink (motivation theory)
+- "Thinking, Fast and Slow" by Daniel Kahneman
+- Organizational behavior and management literature

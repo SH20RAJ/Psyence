@@ -1,0 +1,36 @@
+# Social Psychology
+
+## Definition
+The scientific study of how people's thoughts, feelings, and behaviors are influenced by the actual, imagined, or implied presence of others.
+
+## Key Concepts
+- Social influence and conformity
+- Group dynamics and social roles
+- Attribution theory and person perception
+- Prejudice, stereotypes, and discrimination
+- Social identity and self-concept in groups
+
+## Examples
+- Conforming to group pressure in Asch's line experiments
+- Bystander effect during emergencies
+- In-group favoritism in sports team loyalty
+- Social facilitation improving performance with audience
+
+## Applications
+- Team building and organizational behavior
+- Marketing and consumer psychology
+- Conflict resolution and mediation
+- Public health campaign design
+- Leadership development and influence
+
+## Related Theories / Biases
+- Fundamental attribution error
+- Confirmation bias in social judgments
+- Halo effect in person perception
+- Social proof and bandwagon effect
+
+## References
+- Solomon Asch's conformity experiments
+- Stanley Milgram's obedience studies
+- Leon Festinger's cognitive dissonance theory
+- Henri Tajfel's social identity theory
