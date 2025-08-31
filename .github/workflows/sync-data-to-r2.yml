@@ -4,6 +4,12 @@ on:
   push:
     paths:
       - "data/**"   # only run when files in data folder change
+  workflow_dispatch:
+    inputs:
+      folder:
+        description: 'Folder to sync'
+        required: true
+        default: 'data/'
 
 jobs:
   sync:
