@@ -1,8 +1,18 @@
 'use client'
 
-import { useChat } from 'ai/react'
-import { Conversation } from '@/components/conversation'
-import { PromptInput } from '@/components/prompt-input'
+import { useChat } from '@ai-sdk/react'
+import { 
+  Conversation, 
+  ConversationContent, 
+  ConversationScrollButton 
+} from '@/components/conversation'
+import { 
+  PromptInput, 
+  PromptInputTextarea, 
+  PromptInputToolbar, 
+  PromptInputSubmit 
+} from '@/components/prompt-input'
+import { Message } from '@/components/message'
 import { Brain, Sparkles, Search } from 'lucide-react'
 import Link from 'next/link'
 import { Button } from '@/components/ui/button'
@@ -76,20 +86,29 @@ export default function Chat() {
               </div>
             </div>
           ) : (
-            <div className="flex-1 overflow-auto p-4">
-              <Conversation messages={messages} isLoading={isLoading} />
-            </div>
+            <Conversation className="flex-1">
+              <ConversationContent>
+                {messages.map((message) => (
+                  <Message key={message.id} message={message} />
+                ))}
+              </ConversationContent>
+              <ConversationScrollButton />
+            </Conversation>
           )}
 
           {/* Input Area */}
           <div className="border-t bg-white/80 backdrop-blur-sm p-4">
-            <PromptInput
-              input={input}
-              handleInputChange={handleInputChange}
-              handleSubmit={handleSubmit}
-              isLoading={isLoading}
-              placeholder="Ask about psychology, relationships, communication..."
-            />
+            <PromptInput onSubmit={handleSubmit}>
+              <PromptInputTextarea
+                value={input}
+                onChange={handleInputChange}
+                placeholder="Ask about psychology, relationships, communication..."
+              />
+              <PromptInputToolbar>
+                <div />
+                <PromptInputSubmit status={isLoading ? 'streaming' : 'idle'} />
+              </PromptInputToolbar>
+            </PromptInput>
           </div>
         </div>
       </div>
